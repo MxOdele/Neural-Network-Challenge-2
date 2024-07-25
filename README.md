@@ -41,7 +41,7 @@ Simply `Run All Cells` to execute the code in every cell of the notebook in sequ
 
 Below is a more in-depth explanation of the various cells coded within the `attrition.ipynb` notebook.
 
-| Cell (in sequence) | Notes[^2] |
+| Cell <br> (in sequence) | Notes[^2] |
 | ---: | :--- |
 | 1[^3] | Importing libraries and dependencies <br> <br> Importing data to the DataFrame (DF) `attrition_df` <br> <br> Displaying a sample of the data |
 | 2[^3] | Determining the number of unique values for every column of `attrition_df` |
